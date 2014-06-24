@@ -3,6 +3,7 @@
  * Author: Dr. Mark E. Lehr
  * Created on June 23, 2014, 7:01 PM
  * Purpose:First Program Example
+ *         and to work with GIT
  */
 
 //System Level Libraries
