@@ -3,6 +3,11 @@
  * Author: Alejandra Pesqueira
  *
  * Created on June 23, 2014, 7:01 PM
+<<<<<<< HEAD:ap1744119/Hello_World_V1/main.cpp
+=======
+ * Purpose:First Program Example
+ *         and to work with GIT
+>>>>>>> origin/master:ml1150258/Hello_World_V1/main.cpp
  */
 
 //System Level Libraries
