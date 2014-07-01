@@ -1,6 +1,6 @@
 /* 
  * File:   main.cpp
- * Author: Dr. Mark E. Lehr
+ * Author: Guthrie Price
  * Created on June 30, 2014, 10:24 AM
  */
 
