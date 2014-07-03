@@ -6,6 +6,7 @@
 
 //System Level Libraries
 #include <iostream>
+#include <iomanip>
 using namespace std;
 
 //User Libraries
@@ -30,8 +31,12 @@ int main(int argc, char** argv) {
     
     //Calculations
     mpg=static_cast<float>(miles)/gallons;
+    mpg=miles/static_cast<float>(gallons);
+    mpg=1.0f*miles/gallons;
+    //mpg=miles/gallons;
     
     //Output the results
+    cout<<fixed<<showpoint<<setprecision(2);
     cout<<"You car is capable of "<<mpg<<" miles per gallon."<<endl;
     
     //Run Program, Run!

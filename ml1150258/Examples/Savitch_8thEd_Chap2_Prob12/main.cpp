@@ -25,7 +25,7 @@ int main(int argc, char** argv) {
     //Set the random number seed
     srand(static_cast<unsigned int>(time(0)));  
     
-    //Input the number
+    //Input the number [2,16]
     n=rand()%15+2;
     
     //First Pass Babylonian Approximation

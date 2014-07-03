@@ -29,7 +29,7 @@ int main(int argc, char** argv) {
     srand(static_cast<unsigned int>(time(0)));
     
     //Calculations
-    mph=rand()%28+1;//Fastest human around 28mph, range [1,28]
+    mph=rand()%28+1;//Fastest human around 28 mph, range [1,28]
     fMin=CNVHRMN/mph;//Floating point # minutes to do the mile
     iMin=fMin;
     iSec=(fMin-iMin)*CNVMNSC;//Truncation
