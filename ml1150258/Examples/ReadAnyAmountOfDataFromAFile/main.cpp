@@ -23,7 +23,7 @@ int main(int argc, char** argv) {
     ifstream input;
     
     //Open the input file
-    input.open("data.csv");
+    input.open("20000.csv");
     
     //Read in all data from the file
     while(input>>col1>>col2){
