@@ -18,7 +18,7 @@ bool numberAdd(char [],char [],char []);
 int main(int argc, char** argv) {
     //Create the test numbers using character arrays
     char number1[]="88765432109876543219";
-    char number2[]="1234567890123456789";
+    char number2[]="1456789012345678";
     char result[sizeResult(number1,number2)];
     //Add the numbers
     int width=22;

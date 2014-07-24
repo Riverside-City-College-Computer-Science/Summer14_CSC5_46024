@@ -19,7 +19,7 @@ using namespace std;
 //Execution Begins Here!
 int main(int argc, char** argv) {
     //Declare variables
-    char number[]="000";
+    char number[]="0009";
     unsigned short sNum=atoi(number);
     int size=strlen(number);
     
